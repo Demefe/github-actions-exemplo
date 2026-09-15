@@ -1,5 +1,4 @@
 # github-actions-exemplo
 Exemplo sobre Github Actions
 
-OOOOOOOOOOOOOOOPA
-teste
+Eu quero comer Jerônimo todo dia!
